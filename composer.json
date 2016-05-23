@@ -1,7 +1,8 @@
 {
     "name": "diviak/travis",
     "require-dev": {
-        "phpunit/phpunit": "^5.3"
+        "phpunit/phpunit": "5.3.4",
+        "phpspec/phpspec": "2.5.0"
     },
     "authors": [
         {
