@@ -1,0 +1,13 @@
+{
+    "name": "diviak/travis",
+    "require-dev": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Stanislav Bazik",
+            "email": "diviak@gmail.com"
+        }
+    ],
+    "require": {}
+}
